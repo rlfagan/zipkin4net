@@ -1,4 +1,5 @@
 [![Gitter chat](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/openzipkin/zipkin)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fzipkin4net.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fzipkin4net?ref=badge_shield)
 
 
 # Zipkin4net
@@ -189,3 +190,7 @@ Trace.Current = myTrace;
 
 You will be able to retrieve it, even if you have async code in between. It means that it will follow the sync/async path of your request.
 Since it can be a bit tricky, please use it with caution and if you know what you're doing.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fzipkin4net.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fzipkin4net?ref=badge_large)
